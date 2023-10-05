@@ -1,0 +1,5 @@
+Flask==2.0.1
+psycopg2==2.9.1  # For PostgreSQL database access
+google-api-python-client==2.10.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.4
